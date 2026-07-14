@@ -38,7 +38,7 @@ export function LoginPage() {
               <Ticket className="h-7 w-7" />
             </span>
           </div>
-          <h1 className="mt-3 text-2xl font-bold">Ticketing System</h1>
+          <h1 className="mt-3 text-2xl font-bold">Deskly</h1>
           <p className="text-sm text-slate-500">Inicia sesión para continuar</p>
         </div>
         <form onSubmit={handleSubmit} className="space-y-4">
